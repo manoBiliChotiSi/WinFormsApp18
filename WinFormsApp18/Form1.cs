@@ -17,5 +17,9 @@ namespace WinFormsApp18
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //mujhe sona hai
+        }
     }
 }
