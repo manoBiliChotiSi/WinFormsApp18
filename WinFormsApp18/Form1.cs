@@ -26,6 +26,12 @@ namespace WinFormsApp18
             //yayyyyyyyyyy natasha aa gai
             //jjjjjjjjjjjjjjjjjoooooooooooooo
             //nooooooooooooooooooooooooo
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
